@@ -1,0 +1,9 @@
+[submodule "dogecoin"]
+	path = dogecoin
+	url = https://github.com/Ketzer2002/dogecoin
+[submodule "stratum-mining"]
+	path = stratum-mining
+	url = https://github.com/Ketzer2002/stratum-mining
+[submodule "php-mpos"]
+	path = php-mpos
+	url = https://github.com/Ketzer2002/php-mpos
